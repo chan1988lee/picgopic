@@ -1,2 +1,2 @@
-# picgo.pic
+# picgopic
 save my pic
